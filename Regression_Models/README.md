@@ -14,17 +14,37 @@
 
 <h2>Installation</h2>
 
-<p>Clone the repository:</p>
+<ol>
+  <li>Clone the repository:</li>
+</ol>
 
 <pre><code>git clone https://github.com/your-username/gold-rate-prediction.git</code></pre>
 
-<p>Install the required dependencies:</p>
+<ol start="2">
+  <li>Set up the Python environment:</li>
+</ol>
 
-<pre><code>pip install -r requirements.txt</code></pre>
+<ul>
+  <li>Ensure Python and Jupyter Notebook/Lab are installed on your system.</li>
+  <li>Open a command prompt or terminal and navigate to the project directory.</li>
+  <li>Activate your desired Python environment (optional but recommended).</li>
+  <li>Install the necessary dependencies:</li>
+</ul>
 
-<p>Run the prediction model:</p>
+<pre><code>pip install numpy pandas scikit-learn matplotlib seaborn jupyterlab</code></pre>
 
-<pre><code>python predict_gold_rate.py</code></pre>
+<ol start="3">
+  <li>Launch Jupyter Notebook or JupyterLab:</li>
+</ol>
+
+<pre><code>jupyter notebook</code></pre>
+
+<p>or</p>
+
+<pre><code>jupyter lab</code></pre>
+
+<p>Select the .ipynb file and run it within the Jupyter environment.</p>
+
 
 <h2>Usage</h2>
 
@@ -50,3 +70,17 @@
 
 <p>The gold rate datasets used in this project were obtained from Kaggle. We extend our gratitude to the contributors for providing the valuable data.</p>
 <p>The Python community and the developers of NumPy, Pandas, scikit-learn, Matplotlib, and Seaborn for their excellent libraries that made this project possible.</p>
+
+<h2> Feel free to Connect with me </h2>
+
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/shreyansh-shukla-795171239/">LinkedIn Profile</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/bugbreaker18?t=VvXUVR28MXpg6rD5NTlesw&s=09">Twitter Profile</a>
+  </li>
+  <li>
+    <a href="https://www.github.com/bugbreaker18">GitHub Profile</a>
+  </li>
+</ul>
