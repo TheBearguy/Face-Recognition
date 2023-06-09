@@ -18,7 +18,7 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/gold-rate-prediction.git</code></pre>
+<pre><code>git clone [https://github.com/your-username/gold-rate-prediction.git](https://github.com/bugbreaker18/Machine_Learning/tree/main/Regression_Models)</code></pre>
 
 <ol start="2">
   <li>Set up the Python environment:</li>
