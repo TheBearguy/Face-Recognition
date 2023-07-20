@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Face Recognition Attendance System</h1>
-  <img src="path/to/your/image.png" alt="Face Recognition Attendance System">
+  <img src="Machine_Learning/Face_Recognition/face_recog.png" alt="Face Recognition Attendance System">
 
   <p>This repository contains a Face Recognition Attendance System developed using Python and the OpenCV library for face detection and recognition. The system enables automatic attendance recording based on facial recognition of individuals.</p>
 
@@ -21,7 +21,7 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone [https://github.com/bugbreaker18/Machine_Learning/Face_Recognition_v_0.git](https://github.com/bugbreaker18/face-recognition-attendance.git)</code></pre>
+      <pre><code>git clone [https://github.com/bugbreaker18/Machine_Learning.git](https://github.com/bugbreaker18/Machine_Learning.git)</code></pre>
     </li>
     <li>Install the required dependencies:
       <pre><code>pip install opencv-python pyttsx3 pandas streamlit streamlit_autorefresh</code></pre>
