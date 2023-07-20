@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Face Recognition Attendance System</h1>
-  <img src="Machine_Learning/Face_Recognition/face_recog.png" alt="Face Recognition Attendance System">
+  <img src="face_recog.png" alt="Face Recognition Attendance System">
 
   <p>This repository contains a Face Recognition Attendance System developed using Python and the OpenCV library for face detection and recognition. The system enables automatic attendance recording based on facial recognition of individuals.</p>
 
